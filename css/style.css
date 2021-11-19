@@ -1,0 +1,235 @@
+.header{
+	min-height: 70px;
+		border-radius:20px;
+background-image: url(images/love.jpg);
+	background-color: #00b8ff;
+	margin-bottom: -14px;
+
+}
+.nav a {
+	text-decoration: none;
+	color: #5fadff;
+	
+}
+.aa1{
+	margin-right: 20px;
+margin-left: 300px;
+font-size: 20px;
+}
+.aa2{
+	margin-right: 30px;
+margin-left: 300px;
+font-size: 20px;
+
+}
+.aa3{
+	margin-right: 30px;
+	margin-left: 300px;
+	font-size: 20px;
+}
+.search{
+	margin-top: -8px;
+	margin-left: 1197px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.container{
+	overflow: hidden;
+
+
+	
+
+}
+
+.red{float: left;
+	width: 18%;
+	min-height: 100px;
+	background-color: red;
+margin-right: 18px;
+}
+.blue{float: left;
+	width: 18%;
+min-height: 100px;
+background-color: blue;
+margin-right: 18px;
+}
+.green{float: left;
+	width: 18%;
+	min-height: 100px;
+	background-color:green ;
+margin-right: 18px;
+
+}
+.purple{float: left;
+	width: 18%;
+	min-height: 100px;
+	background-color:purple ;
+margin-right: 18px;
+
+}
+.cyan{float: left;
+	width: 18%;
+	min-height: 100px;
+	background-color:cyan ;
+	margin-right: 18px;
+
+}
+
+.wrapper{ 
+		border-radius:20px;
+
+background-image: url(images/background.jpg);
+background-repeat: repeat-x;
+width: 1520;
+min-height: 300px;
+	overflow: hidden;
+	padding: 20px;
+
+
+
+}
+.form{
+	float: left;
+}
+.table{
+	float: left;
+	margin-left: 630px;
+	margin-top: 25px;
+	
+}
+
+table ,th , td {
+	
+	text-align: center;
+	background-color: #9fbb48;
+	border-radius: 8px;
+border: 2px solid black;
+border-collapse: collapse;
+padding: 10px;
+}
+
+
+.email{
+	width: 304px;
+	padding: 5px;
+	border-radius: 8px;
+
+}
+.password{
+	width: 304px;
+padding: 5px;
+border-radius: 8px;
+}
+.fsname{
+	width: 44%;
+	padding: 5px;
+	border-radius: 8px;
+}
+.day{
+	border-radius: 8px;
+	padding: 3px;
+	font-size: 15px;
+	height: 36px;
+	color: #1c1e21;
+	width: 103px;
+}
+.month{
+	border-radius: 8px;
+	padding: 3px;
+	font-size: 15px;
+	height: 36px;
+	color: #1c1e21;
+	width: 103px;
+
+}
+.year{border-radius: 8px;
+	padding: 3px;
+	font-size: 15px;
+	height: 36px;
+	color: #1c1e21;
+	width: 103px;
+}
+.rr1{
+	width: 267px;
+	padding: 5px;
+	border-radius: 8px;
+}
+.su_{
+	color: white;
+	margin-left: 133px;
+}
+
+	.fi_{
+		color: white;
+
+	}
+.fr_{
+	display: inline-block;
+	margin-left: 70px;
+	margin-bottom: 3px;
+	border: 5px solid black;
+	background-color: #27708d;
+	color: white;
+	padding: 5px;
+}
+.tb_{
+	display: inline-block;
+	margin-left: 670px;
+	margin-bottom: 3px;
+	border: 5px solid black;
+	background-color: #27708d;
+	color: white;
+	padding: 5px;
+}
+.button{
+	width: 130px;
+	padding: 5px;
+	margin-left: 115px;
+	border-radius: 8px;
+	background-color: #2727af;
+
+}
+.footer{
+	overflow: hidden;
+	height: 120px;
+		border-radius:20px;
+
+	background-image: url(images/love.jpg);
+
+;
+
+
+}
+
+.p__{ 
+	color: white;
+	margin-top: -52px;
+	padding: 20px;
+	font-size: 20px;
+}
+
+.cont{float: right;
+	text-decoration: none;
+	font-size: 25px;
+	margin-top: -4px;
+	margin-right: 15px;
+	margin-left: 0px;
+margin-bottom: 0px;
+color: #5fadff;
+	
+
+}
+.tit{
+	float: right;
+	margin-top: 40px;
+	margin-right: -50px;
+}
+
+.thanks{
+	text-align: center;
+	margin-top: 20px;
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
